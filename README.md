@@ -6,7 +6,7 @@
 3. [Recommendations](#3-recommendations)
 4. [Key Takeaways](#4-key-takeaways)
 
-Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded [here](./customer-churn.pbix)
+Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded [here](./Customer Churn.pbix)
 
 ![image](https://github.com/user-attachments/assets/bc74f12c-bdaf-417a-85f7-21dd0374075c)
 
