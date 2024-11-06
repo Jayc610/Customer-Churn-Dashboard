@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/bc74f12c-bdaf-417a-85f7-21dd0374075c)
 
 
-## **1. Project Background**  
+## Project Background
 This project focuses on analyzing the key factors contributing to customer churn for a telecommunications company. The analysis examines various factors such as customer demographics, service types, contract types, and additional services. The goal is to derive actionable insights that can help the company improve customer retention and reduce churn.
 
 The analysis was conducted using Power BI to create an interactive dashboard, which highlights trends, relationships, and potential issues affecting customer retention. The insights gathered through this analysis are intended to guide business decisions, especially in areas like contract management, service offerings, and customer support.
