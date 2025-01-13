@@ -21,26 +21,31 @@ The analysis was conducted using Power BI to create an interactive dashboard, wh
 ### **Key Findings:**
 
 - **Contract Types:**
-  - Monthly contract customers show the highest churn rate.
-  - Customers on yearly contracts retain better, with long-term customers paying higher monthly charges.
-  - ![image](https://github.com/user-attachments/assets/4f0cbb36-59cf-46fd-a16f-e41e465783fa)
+  - Monthly contract customers show the highest churn rate at 45.84%.
+  - Customers on yearly contracts retain better, but clients who pay higher monthly charges are more likely to churn
+  ![image](https://github.com/user-attachments/assets/57b847d5-46c7-4230-888f-feba2f0aa109)
 
-  
 - **Internet Service:**
   - Churn is higher among internet service customers, particularly those with fiber optic service.
+  ![image](https://github.com/user-attachments/assets/436ea291-27b8-4a3a-9b98-46de44efcb86)
   - Light and Moderate Users without Unlimited Data show significantly higher churn rates.
+  ![image](https://github.com/user-attachments/assets/66cbf64d-2562-4643-b1d6-59b334ff15b0)
+
   
 - **Add-on Services:**
   - Customers with add-ons, particularly online security and premium tech support, show lower churn rates.
-  
+  ![image](https://github.com/user-attachments/assets/0971acd5-ab75-4d01-a513-ba661c9b39e8)
+  ![image](https://github.com/user-attachments/assets/2d7ed1d9-a09a-4969-9ce5-664a7d25a4b5)
+
 - **Customer Support:**
   - Customer support plays a critical role in retention, especially for high-risk segments.
-  
+  ![image](https://github.com/user-attachments/assets/41b19ce7-6993-43d8-8ed3-793d16ef7e4d)
+  ![image](https://github.com/user-attachments/assets/f1aa2d0f-3e5e-4f99-a7fa-7299173f527a)
+
 - **Age Demographics:**
   - Seniors, particularly on monthly contracts, are more prone to churn.
-  
-- **Pricing and Offers:**
-  - Customers with expired promotional offers, particularly those with bundled services, tend to have higher churn rates.
+  ![image](https://github.com/user-attachments/assets/ae4a7143-5e99-4909-82f7-0d7c4071c85b)
+
 
 ## **3. Recommendations**  
 
@@ -62,9 +67,6 @@ The analysis was conducted using Power BI to create an interactive dashboard, wh
 - **Age Demographics:**
   - Develop retention strategies tailored to senior customers, particularly those on monthly contracts.
   
-- **Pricing Strategies:**
-  - Monitor the impact of pricing increases after promotional periods and implement retention strategies as promotions end.
-
 ## **4. Key Takeaways**  
 
 - Focus on internet service improvements, especially fiber optic quality, to improve retention.
