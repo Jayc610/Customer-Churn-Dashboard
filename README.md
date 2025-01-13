@@ -28,23 +28,28 @@ The analysis was conducted using Power BI to create an interactive dashboard, wh
 
 - **Internet Service:**
   - Churn is higher among internet service customers, particularly those with fiber optic service.
+    
   ![image](https://github.com/user-attachments/assets/436ea291-27b8-4a3a-9b98-46de44efcb86)
   - Light and Moderate Users without Unlimited Data show significantly higher churn rates.
+    
   ![image](https://github.com/user-attachments/assets/66cbf64d-2562-4643-b1d6-59b334ff15b0)
 
   
 - **Add-on Services:**
   - Customers with add-ons, particularly online security and premium tech support, show lower churn rates.
+    
   ![image](https://github.com/user-attachments/assets/0971acd5-ab75-4d01-a513-ba661c9b39e8)
   ![image](https://github.com/user-attachments/assets/2d7ed1d9-a09a-4969-9ce5-664a7d25a4b5)
 
 - **Customer Support:**
   - Customer support plays a critical role in retention, especially for high-risk segments.
+    
   ![image](https://github.com/user-attachments/assets/41b19ce7-6993-43d8-8ed3-793d16ef7e4d)
   ![image](https://github.com/user-attachments/assets/f1aa2d0f-3e5e-4f99-a7fa-7299173f527a)
 
 - **Age Demographics:**
   - Seniors, particularly on monthly contracts, are more prone to churn.
+    
   ![image](https://github.com/user-attachments/assets/ae4a7143-5e99-4909-82f7-0d7c4071c85b)
 
 
