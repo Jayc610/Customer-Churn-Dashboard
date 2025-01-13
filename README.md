@@ -23,6 +23,8 @@ The analysis was conducted using Power BI to create an interactive dashboard, wh
 - **Contract Types:**
   - Monthly contract customers show the highest churn rate.
   - Customers on yearly contracts retain better, with long-term customers paying higher monthly charges.
+  - ![image](https://github.com/user-attachments/assets/4f0cbb36-59cf-46fd-a16f-e41e465783fa)
+
   
 - **Internet Service:**
   - Churn is higher among internet service customers, particularly those with fiber optic service.
